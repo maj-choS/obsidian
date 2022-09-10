@@ -29,10 +29,10 @@ kanban-plugin: basic
 
 ## CLOSE
 
-- [ ] [[git]]
-- [ ] [[Uploader]]
-- [ ] [[Web-shell]] ^a9ofmj
-- [ ] [[LinEnum]]
+- [ ] git
+- [ ] Uploader
+- [ ] Web-shell ^a9ofmj
+- [ ] LinEnum
 
 
 
