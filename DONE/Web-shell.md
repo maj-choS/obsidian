@@ -1,4 +1,4 @@
-[[ROOTME SERVER]]
 [[LinEnum]]
 [[Reverse Shell]]
+[[nfs v3]]
 ![[shell.phtml]]

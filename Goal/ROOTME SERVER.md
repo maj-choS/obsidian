@@ -7,11 +7,12 @@ kanban-plugin: basic
 ## BACKLOG
 
 - [ ] SSH
+- [ ] OpenSSH 7.9p1 Debian 10+deb10u2
 
 
 ## TO DO
 
-- [ ] Apache
+- [ ] Apache httpd 2.4.38 ((Debian))
 - [ ] NFS
 
 
