@@ -1,1 +1,1 @@
-[[LinEnum]]      [[Web-shell]]![[LinEnum 1.log]]
+[[LinEnum]]     ![[LinEnum 1.log]]

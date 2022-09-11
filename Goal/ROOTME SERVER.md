@@ -33,6 +33,7 @@ kanban-plugin: basic
 - [ ] Uploader
 - [ ] Web-shell ^a9ofmj
 - [ ] LinEnum
+- [ ] [[README]]
 
 
 

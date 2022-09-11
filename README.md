@@ -10,9 +10,8 @@ https://repository.root-me.org/Exploitation%20-%20Web/EN%20-%20OWASP%20testing%2
 
 Validation flag is stored in the file **/passwd**
 
-Virtual environnement to attack can be reached at : [[**ctf01.root-me.org**]] 
+Virtual environnement to attack can be reached at : [[open URL in browser]]
 (room number is subject to change)
 
-
-
-
+Check [[robots.txt]]  
+[[Defining ip]]: dig ctf01.root-me.org

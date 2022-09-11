@@ -1,1 +1,4 @@
-[[Uploader]]   [[port 80]] ![[shell.phtml]]
+[[ROOTME SERVER]]
+[[LinEnum]]
+[[Reverse Shell]]
+![[shell.phtml]]
