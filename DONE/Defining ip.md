@@ -12,7 +12,7 @@
 ;ctf01.root-me.org.		IN	A
 
 ;; ANSWER SECTION:
-ctf01.root-me.org.	4543	IN	A	212.129.28.18
+ctf01.root-me.org.	4543	IN	A	**212.129.28.18
 
 ;; Query time: 0 msec
 ;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
